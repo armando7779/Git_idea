@@ -1,0 +1,136 @@
+.container .row-a .send li button {
+  margin-left: 60px;
+  width: 70px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid dodgerblue;
+  background-color: dodgerblue;
+  color: white; }
+.container .row-a ul li {
+  margin-left: 10px; }
+  .container .row-a ul li a {
+    margin-top: 10px; }
+    .container .row-a ul li a h6 {
+      color: black;
+      font-size: 20px;
+      padding: 15px; }
+.container .row-b {
+  margin-top: 80px; }
+  .container .row-b div h6 {
+    text-align: center; }
+  .container .row-b div h1 {
+    text-align: center; }
+  .container .row-b div .fool {
+    text-align: center; }
+    .container .row-b div .fool input {
+      height: 35px; }
+    .container .row-b div .fool button {
+      height: 35px;
+      border-radius: 3px;
+      background-color: #28963a;
+      color: white;
+      border: 1px solid #38ba38; }
+.container .row-c {
+  margin-top: 70px;
+  box-shadow: 100px 100px 50px 74px rgba(34, 60, 80, 0.2); }
+  .container .row-c .animation2 {
+    animation: 2s alternate;
+    animation-name: ali;
+    width: 200px;
+    height: 200px;
+    background-color: limegreen;
+    border: 1px solid limegreen;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: -470px; }
+    .container .row-c .animation2 h5 {
+      margin-left: 20px;
+      color: white;
+      margin-top: 80px; }
+@keyframes ali {
+  0% {
+    box-shadow: 0px 0px 100px 0px rgba(50, 205, 50, 0.42); }
+  25% {
+    box-shadow: 0px 0px 100px 0px rgba(50, 205, 50, 0.53); }
+  50% {
+    box-shadow: 0px 0px 100px 15px rgba(50, 205, 50, 0.29); }
+  100% {
+    box-shadow: 0px 0px 100px 15px rgba(50, 205, 50, 0.29); } }
+.container .row-e {
+  margin-top: 160px;
+  font-size: 19px; }
+  .container .row-e .col-6 img {
+    margin-left: 70px;
+    width: 700px;
+    height: 420px; }
+.container .row-g {
+  margin-top: 70px; }
+  .container .row-g .col-4 {
+    margin-top: 250px; }
+    .container .row-g .col-4 p {
+      font-size: 19px; }
+  .container .row-g .col-6 img {
+    width: 700px;
+    height: 420px; }
+.container .row-h {
+  margin-top: 160px;
+  font-size: 19px; }
+  .container .row-h .col-3 {
+    margin-top: 250px; }
+  .container .row-h .col-6 img {
+    margin-left: 70px;
+    width: 700px;
+    height: 420px; }
+.container .row-l {
+  margin-top: 70px; }
+  .container .row-l .col-4 {
+    margin-top: 250px; }
+    .container .row-l .col-4 p {
+      font-size: 19px; }
+  .container .row-l .col-6 img {
+    width: 700px;
+    height: 420px; }
+.container .row-m {
+  margin-top: 160px;
+  font-size: 19px; }
+  .container .row-m .col-3 .col-10 {
+    margin-top: 40px;
+    margin-left: -10px; }
+    .container .row-m .col-3 .col-10 button {
+      margin-top: 10px;
+      background-color: #409f40;
+      color: white;
+      border: #409f40;
+      border-radius: 3px; }
+  .container .row-m iframe {
+    width: 800px !important;
+    height: 420px !important;
+    background-color: lightgrey; }
+.container .row-z {
+  margin-top: 30px; }
+  .container .row-z .col-6-d .h5-s {
+    margin-top: 15px; }
+  .container .row-z .col-6 .foot {
+    margin-left: 160px; }
+    .container .row-z .col-6 .foot ul li p {
+      margin-top: 40px; }
+.container .row-s {
+  margin-top: 50px; }
+  .container .row-s .col-3 {
+    margin-left: 20px; }
+  .container .row-s h5 {
+    margin-left: 15px; }
+  .container .row-s img {
+    width: 30px;
+    height: 30px; }
+.container .row-v {
+  margin-top: 30px; }
+  .container .row-v .col-2 {
+    border-top: white !important;
+    border-bottom: white !important;
+    border-left: #9d9d9d !important; }
+    .container .row-v .col-2 h5 {
+      color: grey; }
+
+/*# sourceMappingURL=name.css.map */
